@@ -9,7 +9,7 @@ To View the live site click [here &rarr;](https://gaurav-uk2001.github.io/My_Por
 ## Features
 
 - Clean, Simple and Modern UI Design.
-- Uses No CSS or JavaScript Frameworks or libraries as dependencies.
+- Uses CSS & JavaScript Frameworks or libraries as dependencies.
 - Built with only HTML, CSS and a bit of JavaScript 🔨.
 - Well Organized Documentation.
 - Keyboard support.
