@@ -20,4 +20,4 @@ To View the live site click [here &rarr;](https://gaurav-uk2001.github.io/My_Por
 
 ### Contributions are warmly welcomed ❤️.
 
-(images/Portfolio ss.png)
+![Alt Text](./images/Portfolio.png)
