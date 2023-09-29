@@ -16,9 +16,7 @@ To View the live site click [here &rarr;](https://gaurav-uk2001.github.io/My_Por
 - Fully Responsive.
 - Loads fast ⚡.
 
-## Lighthouse Report
-
-![Lighthouse Report](/images/lighthouse-report.png)
+## Lighthouse Report=
 
 ### Contributions are warmly welcomed ❤️.
 
